@@ -102,8 +102,8 @@ font-family: 'Sedgwick Ave', cursive;}  */
 top:-59px;
 left:70%;
 }
-#banner img{opacity:.7;}
-#banner img:hover{opacity:0.4;}
+/*#banner img{opacity:.7;}
+#banner img:hover{opacity:0.4;}*/
 
 #banner p{font-size:36px;
 font-family: Tahoma, Geneva, sans-serif;}
@@ -130,9 +130,10 @@ padding-top:1px;}
 #page-footer{
 padding-bottom:1px;}
 
-#page-footer a{color:#EEE;}
-#page-footer a:visited{color:#999;}
-#page-footer a:hover{color:#F93;}
+#page-footer a{color:#FFF;}
+#page-footer a:visited{color:#FFF;}
+#page-footer a:hover{color:#FFF;}
+#page-footer h1:hover{opacity:.5;}
 
 #copyright{border-top:1px solid #999;
 /*padding:1em 0;*/}
